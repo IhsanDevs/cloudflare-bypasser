@@ -1,0 +1,20 @@
+{
+    "name": "ihsandevs/cloudflare-bypasser",
+    "description": "Bypass CLoudFlare. Forget Human Verification now.",
+    "type": "library",
+    "require": {
+        "symfony/process": "^6.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ihsandevs\\CloudflareBypasser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ihsan Devs",
+            "email": "ihsandevs@ihsandevs.com"
+        }
+    ]
+}
